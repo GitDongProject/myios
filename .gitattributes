@@ -1,0 +1,5 @@
+1.jpg filter=lfs diff=lfs merge=lfs -text
+2.jpg filter=lfs diff=lfs merge=lfs -text
+H5C8480E3_0707174535.ipa filter=lfs diff=lfs merge=lfs -text
+manifest.plist filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
