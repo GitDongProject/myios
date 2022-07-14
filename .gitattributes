@@ -3,3 +3,5 @@
 H5C8480E3_0707174535.ipa filter=lfs diff=lfs merge=lfs -text
 manifest.plist filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
+cangnanshuiwu.plist filter=lfs diff=lfs merge=lfs -text
+qingdabiaogong.plist filter=lfs diff=lfs merge=lfs -text
